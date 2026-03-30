@@ -1,0 +1,1 @@
+https://unpkg.com/ionicons25.4.0/dist/ionicons.js
